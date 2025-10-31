@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ArtifactsWorkspaceSettings">
     <artifacts-to-build>
-      <artifact name="ComponenteFecha:jar" />
+      <artifact name="DemoFecha:jar" />
     </artifacts-to-build>
   </component>
   <component name="AutoImportSettings">
@@ -22,6 +22,21 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "jjha19"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/jjha19/AdivinaFecha.git",
+    "accountId": "aa42715f-decf-42e3-8fd3-4f32b3950a27"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -33,8 +48,9 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/pnfev/fever_resources/res/AdivinaFecha",
+    "last_opened_file_path": "C:/Users/pnfev/fever_resources/res/DemoFecha/lib",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -48,6 +64,9 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\pnfev\fever_resources\res\DemoFecha\lib" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\pnfev\fever_resources\res\out" />
       <recent name="C:\Users\pnfev\fever_resources\res\ComponenteFecha" />
@@ -85,7 +104,7 @@
       <option name="presentableId" value="Default" />
       <updated>1761933075174</updated>
       <workItem from="1761933076301" duration="360000" />
-      <workItem from="1761933488386" duration="726000" />
+      <workItem from="1761933488386" duration="2043000" />
     </task>
     <servers />
   </component>
